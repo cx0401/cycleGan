@@ -1,0 +1,1 @@
+python train.py --dataroot ./datasets/T12T2star --name T12T2star_cyclegan --model cycle_gan
